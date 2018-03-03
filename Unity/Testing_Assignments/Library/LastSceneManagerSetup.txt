@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/StateMachines_ScriptableObjects.unity
+  isLoaded: 1
+  isActive: 1
