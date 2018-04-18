@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Astrid_Attack.unity
+- path: Assets/Elementals.unity
   isLoaded: 1
   isActive: 1
